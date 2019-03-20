@@ -1,3 +1,4 @@
-1.Ê×ÏÈ½«ÊäÈëÊı¾İÎÄ¼şinputÉÏ´«µ½HDFS
-2.Ê¹ÓÃ¡°Ö´ĞĞ³ÌĞò/¼ìË÷_jar°ü/imageRetrieval.jar¡±½øĞĞ¼ìË÷£¬ÃüÁîĞÎÊ½ÊÇhadoop jar  imageRetrieval.jar input output1 output2 output3
-3.output3·µ»ØµÄÊÇ×î¼ÑÆ¥ÅäÍ¼ÏñÔÚÊı¾İ¿âÖĞµÄË÷Òı
+1.é¦–å…ˆå°†è¾“å…¥æ•°æ®æ–‡ä»¶inputä¸Šä¼ åˆ°HDFS
+2.ä½¿ç”¨â€œæ‰§è¡Œç¨‹åº/æ£€ç´¢_jaråŒ…/imageRetrieval.jarâ€è¿›è¡Œæ£€ç´¢ï¼Œå‘½ä»¤å½¢å¼æ˜¯hadoop jar  imageRetrieval.jar input output1 output2 output3
+3.output3è¿”å›çš„æ˜¯æœ€ä½³åŒ¹é…å›¾åƒåœ¨æ•°æ®åº“ä¸­çš„ç´¢å¼•
+å…¶ä»–ç»†èŠ‚è§è¯¦è§£.docx
